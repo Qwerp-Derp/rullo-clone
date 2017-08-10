@@ -1,0 +1,13 @@
+name: rullo-clone
+version: 0.1.0
+
+authors:
+  -  Hanyuan Li <completelyderp@gmail.com>
+dependencies:
+  crsfml:
+    github: oprypin/crsfml
+    version: 2.4.5
+
+crystal: 0.23.1
+
+license: MIT
